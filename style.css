@@ -1,0 +1,19 @@
+div {
+    text-align: center;
+    margin: 250px;
+
+
+}
+body {
+    background-color: yellow;
+}
+.yy {
+   display: flex;
+   align-items: center;
+   justify-content: space-around;
+
+
+}
+.oo {
+    text-align: right;
+}
